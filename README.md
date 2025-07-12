@@ -1,3 +1,14 @@
+# ttt-rl
+My implementation:
+- Initialize weights with He/Kaiming function
+- Code refactoring and cleanup
+- Basic weight saving and loading functionality
+- Simple training setup against another model
+
+Note: Some of these additions are experimental and the code quality could be 
+improved. I plan to refactor and enhance these features in the future, a
+long with implementing additional functionality.
+
 # Tic Tac Toe with Reinforcement Learning
 
 *The only winning move is not to play*
